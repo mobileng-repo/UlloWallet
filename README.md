@@ -7,7 +7,7 @@
 - User can show transaction history as well
 - Forgot password is also implemented.
 
-# Screenshot
+# Screenshots
 ![Screenshot_20210806-032041_Ullo](https://user-images.githubusercontent.com/88431319/128499563-716ca2e8-d387-4b33-96ad-6fa2e1b07601.jpg)
 
 ![Screenshot_20210806-032046_Ullo](https://user-images.githubusercontent.com/88431319/128499570-230181f1-c88e-4ab4-bd19-aa54256f451c.jpg)
